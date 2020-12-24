@@ -12,4 +12,4 @@ Short demo project
 
 ![Screenshot_20201224-202109_PeCode test](https://user-images.githubusercontent.com/72496644/103102720-fac6d100-4625-11eb-8643-c69797b551da.jpg)
 
-<img src="https://user-images.githubusercontent.com/72496644/103102720-fac6d100-4625-11eb-8643-c69797b551da.jpg" width="48" height="80">
+<img src="https://user-images.githubusercontent.com/72496644/103102720-fac6d100-4625-11eb-8643-c69797b551da.jpg" width="400" height="700">
