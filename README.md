@@ -11,3 +11,5 @@ Short demo project
 ![Screenshot_20201224-202046_PeCode test](https://user-images.githubusercontent.com/72496644/103102717-f6021d00-4625-11eb-9e49-8163fbf3b6bc.jpg)
 
 ![Screenshot_20201224-202109_PeCode test](https://user-images.githubusercontent.com/72496644/103102720-fac6d100-4625-11eb-8643-c69797b551da.jpg)
+
+<img src="https://user-images.githubusercontent.com/72496644/103102720-fac6d100-4625-11eb-8643-c69797b551da.jpg" width="48" height="80">
