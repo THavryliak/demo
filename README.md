@@ -6,7 +6,7 @@ Short demo project
 
 “-” delete button will delete fragment.
 
-User will be able to navigate between all fragments. (create ViewPager with possibility swipe right/left)
+User will be able to navigate between all fragments. (swipe right/left)
 
 Technology Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------
